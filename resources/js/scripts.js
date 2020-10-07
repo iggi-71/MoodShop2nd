@@ -35,6 +35,7 @@ for (let i=0; i<data.length; ++i) {
     newDiv.appendChild(button)
 
   // put new div inside items container
+  //put new div inside items container
     itemsContainer.appendChild(newDiv)
 }
 
